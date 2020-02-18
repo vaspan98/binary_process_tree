@@ -20,7 +20,7 @@ GCC (g++) compiler.
 
 `<Datafile>` the binary input file.
 
-`<Height>` the depth of the full binary search tree, 1 < Height < 5.
+`<Height>` the depth of the full binary search tree,  `1 ≤ Height ≤ 5 `.
 
 `<Pattern>` the (sub)string we are searching in the binary file. 
 
