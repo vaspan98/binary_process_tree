@@ -27,7 +27,7 @@ GCC (g++) compiler.
 `-s` if you skip this flag, every leaf node searches the same amount of records in the file.
 
 ## Author
-Vasilis Panagakis
+Vassilis Panagakis
 
 ## Date
 November 2018
