@@ -8,7 +8,7 @@ The internal nodes combine the results taken from their children and they forwar
 The root node sorts the records that form the answer to the query.  
 
 ## Prerequisites
-GCC (g++) compiler.
+GCC compiler.
 
 ## Compilation
 `$ make clean`
