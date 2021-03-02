@@ -28,6 +28,3 @@ GCC compiler.
 
 ## Author
 Vassilis Panagakis
-
-## Date
-November 2018
